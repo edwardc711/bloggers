@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-j3&w*++#oa=n-z$&$t6cxym$bmw^xoqxnqvtztn=3q^m5!800+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'https://git.heroku.com/bloggers-corner.git']
 
 
 # Application definition
